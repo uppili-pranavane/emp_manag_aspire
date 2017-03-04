@@ -1,0 +1,5 @@
+G:\visual studio\emp_mag\emp_mag\bin\Debug\emp_mag.exe.config
+G:\visual studio\emp_mag\emp_mag\bin\Debug\emp_mag.exe
+G:\visual studio\emp_mag\emp_mag\bin\Debug\emp_mag.pdb
+G:\visual studio\emp_mag\emp_mag\obj\Debug\emp_mag.exe
+G:\visual studio\emp_mag\emp_mag\obj\Debug\emp_mag.pdb
